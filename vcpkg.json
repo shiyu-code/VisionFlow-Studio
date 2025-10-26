@@ -1,0 +1,11 @@
+{
+  "name": "visionflow-studio",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "qtbase",
+    "qtimageformats",
+    "opencv",
+    { "name": "vtk", "features": ["qt"] },
+    { "name": "ffmpeg", "features": ["avcodec", "avformat", "swscale", "swresample"] }
+  ]
+}
