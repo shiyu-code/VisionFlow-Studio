@@ -1,6 +1,6 @@
-# VisionFlow-RFlow · 粒子图像测速（PIV）演示平台
+# VisionFlow-Flow · 粒子图像测速（PIV）演示平台
 
-VisionFlow-RFlow 是在 VisionFlow-Studio 基础上扩展的粒子图像测速（PIV）演示软件，面向通用多相机/高速成像应用场景（如喷流、风洞、微流控、燃烧流场等）。项目以 Qt + OpenCV + FFmpeg + VTK + CMake 为核心技术栈，支持视频导入、参数化 PIV 分析、矢量/热力图可视化与结果导出。
+VisionFlow-Studio 是一款粒子图像测速（PIV）演示软件，面向通用多相机/高速成像应用场景（如喷流、风洞、微流控、燃烧流场等）。项目以 Qt + OpenCV + FFmpeg + VTK + CMake 为核心技术栈，支持视频导入、参数化 PIV 分析、矢量/热力图可视化与结果导出。
 
 
 ## 功能概览（当前与规划）
